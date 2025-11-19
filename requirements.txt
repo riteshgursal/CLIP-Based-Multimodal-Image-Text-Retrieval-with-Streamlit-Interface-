@@ -1,6 +1,10 @@
-Python
-PyTorch 
-OpenAI 
-CLIP 
-PIL
-NumPy
+streamlit==1.38.0
+numpy
+pillow
+pyyaml
+pandas
+torch==2.2.2
+torchvision==0.17.2
+torchaudio==2.2.2
+git+https://github.com/openai/CLIP.git
+--extra-index-url https://download.pytorch.org/whl/cpu
