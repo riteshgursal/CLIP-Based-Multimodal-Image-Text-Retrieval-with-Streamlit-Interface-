@@ -1,0 +1,6 @@
+Python
+PyTorch 
+OpenAI 
+CLIP 
+PIL
+NumPy
