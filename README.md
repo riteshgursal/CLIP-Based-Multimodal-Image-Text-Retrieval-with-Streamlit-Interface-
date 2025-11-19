@@ -53,7 +53,7 @@ Integration of machine learning into real-world retrieval systems
 ---
 
 ## 🗂️ Folder Structure
-
+```
 CLIP-Multimodal-Retrieval/
 │
 ├── app.py # CLI version
@@ -66,7 +66,7 @@ CLIP-Multimodal-Retrieval/
 │ └── beach.jpg
 ├── results/ # Folder for screenshots / outputs
 └── README.md
-
+```
 
 ---
 
